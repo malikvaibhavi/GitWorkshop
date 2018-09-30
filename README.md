@@ -73,3 +73,6 @@ Git introduction workshop held to introduce students to Open Source
 
 ### Devansh Bindlish
 - IT 1st Year
+
+### Vaibhavi Malik
+- CSE 1st year
